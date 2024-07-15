@@ -45,3 +45,6 @@ enabled: false # Set to true to enable the feature
 discord:
   bot_name: "bot_name" # The name of the bot as set in the Discord Velocity Plus configuration
   channel_id: 123 # The ID of the Discord channel
+
+```
+For more information or to join our community, visit our Discord server: [https://discord.gg/A9jgs4SvkD](https://discord.gg/A9jgs4SvkD)
