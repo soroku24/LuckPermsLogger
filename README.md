@@ -1,6 +1,6 @@
 # LuckPermsLogger Plugin
 
-LuckPermsLogger is a Minecraft plugin designed to log LuckPerms events and send these logs to a Discord channel using a bot. This plugin depends on the DiscordVelocityPlus plugin for its Discord integration.
+LuckPermsLogger is a Minecraft Velocity plugin designed to log LuckPerms events and send these logs to a Discord channel using a bot. This plugin depends on the DiscordVelocityPlus plugin for its Discord integration.
 
 ## Features
 
