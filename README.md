@@ -24,8 +24,10 @@ LuckPermsLogger is a Minecraft plugin designed to log LuckPerms events and send 
 
 ## Dependencies
 
-- [DiscordVelocityPlus](https://github.com/OfficialRikiDev/DiscordVelocityPlus)  
-  Ensure you have this plugin installed and configured correctly as LuckPermsLogger relies on it for Discord communication.
+ Ensure you have this plugin installed and configured correctly as LuckPermsLogger
+
+- [DiscordVelocityPlus](https://github.com/OfficialRikiDev/DiscordVelocityPlus) for Discord communication.
+- [LuckPerms](https://luckperms.net/download) for Listening luckperms events
 
 ## Installation
 
