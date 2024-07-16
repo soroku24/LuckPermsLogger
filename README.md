@@ -19,7 +19,7 @@ LuckPermsLogger is a Minecraft Velocity plugin designed to log LuckPerms events 
 - `/lpl set bot <botName>`  
   Sets the name of the Discord bot used for logging.
 
-- `/lpl set toggle`  
+- `/lpl toggle`  
   Toggles whether the bot will send logs to Discord or not.
 
 ## Dependencies
