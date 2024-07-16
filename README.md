@@ -49,4 +49,7 @@ discord:
   channel_id: 123 # The ID of the Discord channel
 
 ```
-For more information or to join our community, visit our Discord server: [https://discord.gg/A9jgs4SvkD](https://discord.gg/A9jgs4SvkD)
+
+## This plugin is powered by Yohhan Development.
+
+### For inquiries and support, feel free to join our Discord. We also offer illustration and graphic design services. Just open a ticket! [https://discord.gg/A9jgs4SvkD](https://discord.gg/A9jgs4SvkD)
