@@ -8,6 +8,11 @@ LuckPermsLogger is a Minecraft Velocity plugin designed to log LuckPerms events 
 - Configurable via in-game commands.
 - Toggle logging on or off as needed.
 
+## Permission
+
+- `luckpermslogger.all`
+  Gives all access to all luckpermslogger command.
+
 ## Commands
 
 - `/lpl reload`  
