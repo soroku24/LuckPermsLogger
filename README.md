@@ -31,7 +31,7 @@ LuckPermsLogger is a Minecraft Velocity plugin designed to log LuckPerms events 
 
  Ensure you have this plugin installed and configured correctly
 
-- [DiscordVelocityPlus](https://github.com/OfficialRikiDev/DiscordVelocityPlus) for Discord communication.
+- [SyncSecurePlus](https://github.com/OfficialRikiDev/SyncSecurePlus) for Discord communication.
 - [LuckPerms](https://luckperms.net/download) for Listening luckperms events (use velocity version)
 
 ## Installation
@@ -54,6 +54,17 @@ discord:
   channel_id: 123 # The ID of the Discord channel
 
 ```
+
+
+#
+
+Unauthorized copying, modification, distribution, or use of this plugin, in whole or in part, is strictly prohibited.
+
+Any alteration, adaptation, or derivation of the plugin’s code is forbidden. Users must not reverse engineer or attempt to decompile the plugin in any form.
+
+We reserve the right to modify these terms and conditions at any time. By continuing to use this plugin, you agree to comply with the most current version of these terms.
+
+
 
 ## This plugin is powered by Yohhan Development.
 
