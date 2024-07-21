@@ -63,7 +63,7 @@ discord:
 
 #
 
-Unauthorized copying, modification, distribution, or use of this plugin, in whole or in part, is strictly prohibited.
+Unauthorized copying, modification, distribution in whole or in part, is strictly prohibited.
 
 Any alteration, adaptation, or derivation of the plugin’s code is forbidden. Users must not reverse engineer or attempt to decompile the plugin in any form.
 
