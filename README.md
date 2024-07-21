@@ -63,9 +63,10 @@ discord:
 
 #
 
-Unauthorized copying, modification, distribution in whole or in part, is strictly prohibited.
+Unauthorized copying, modification, distribution, in whole or in part, is strictly prohibited.
 
 Any alteration, adaptation, or derivation of the plugin’s code is forbidden. Users must not reverse engineer or attempt to decompile the plugin in any form.
 
 We reserve the right to modify these terms and conditions at any time. By continuing to use this plugin, you agree to comply with the most current version of these terms.
+
 
