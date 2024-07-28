@@ -50,7 +50,7 @@ Below is an example configuration for LuckPermsLogger:
 enabled: false # Set to true to enable the feature
 
 discord:
-  bot_name: "bot_name" # The name of the bot as set in the Discord Velocity Plus configuration
+  bot_name: "bot_name" # The name of the bot as set in the Sync Secure Plus configuration
   channel_id: 123 # The ID of the Discord channel
 
 ```
